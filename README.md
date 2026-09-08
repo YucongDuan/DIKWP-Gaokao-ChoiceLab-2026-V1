@@ -1,5 +1,7 @@
 # DIKWP Gaokao ChoiceLab 2026 V1
 
+Created by Yucong Duan (段玉聪).
+
 Standalone, offline-first decision-support prototype for 2026 Chinese Gaokao university and major selection.
 
 ## Core workflow
